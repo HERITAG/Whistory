@@ -102,7 +102,7 @@ python-crontab==2.3.5
 python-dateutil==2.7.3
 python-magic==0.4.15
 pytz==2018.5
-PyYAML==5.1.2
+PyYAML==5.4
 rdflib==4.2.2
 redis==3.2.0
 requests==2.22.0
